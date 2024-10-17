@@ -29,6 +29,7 @@ Make sure your Raspberry Pi is set up and connected to the internet. You'll need
 - luma.oled
 - Flask
 
-Install them with pip:
+You can install all dependencies by running:
+
 ```bash
-sudo pip3 install RPi.GPIO Adafruit_DHT luma.oled Flask
+pip install -r requirements.txt

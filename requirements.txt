@@ -1,0 +1,4 @@
+RPi.GPIO==0.7.0
+Adafruit_DHT==1.4.0
+luma.oled==3.7.0
+Flask==2.3.3
