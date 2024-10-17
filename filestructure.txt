@@ -1,9 +1,0 @@
-smart-plant-monitor/
-│
-├── monitor.py               # Main Python script for sensor data collection and display
-├── app.py                   # Flask web server for displaying data on a web interface
-├── sensor_data.csv           # Auto-generated CSV file for logging sensor data
-├── templates/
-│   └── index.html           # HTML template for Flask to display data on the web
-├── README.md                # Detailed description and setup instructions
-└── requirements.txt         # List of required Python libraries
