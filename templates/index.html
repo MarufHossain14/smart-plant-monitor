@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Monitoring Dashboard</title>
+</head>
+<body>
+    <h1>Plant Monitoring Dashboard</h1>
+    <p><strong>Temperature:</strong> {{ data[2] }}°C</p>
+    <p><strong>Humidity:</strong> {{ data[1] }}%</p>
+    <p><strong>Soil Moisture:</strong> {{ 'Wet' if data[3] == '1' else 'Dry' }}</p>
+    <p><strong>Light Level:</strong> {{ 'Bright' if data[4] == '1' else 'Dim' }}</p>
+</body>
+</html>
