@@ -62,7 +62,7 @@ When you’re running the project on a Raspberry Pi, you need to install the lib
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/smart-plant-monitor.git
+   git clone https://github.com/MarufHossain14/smart-plant-monitor.git
    cd smart-plant-monitor
    ```
 
