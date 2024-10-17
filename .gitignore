@@ -1,0 +1,26 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore sensor data and logs
+sensor_data.csv
+logs/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore testing coverage reports
+htmlcov/
+.coverage
