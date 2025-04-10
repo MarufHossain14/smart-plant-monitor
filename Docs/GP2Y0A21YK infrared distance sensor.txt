@@ -1,0 +1,2 @@
+GP2Y0A21YK infrared distance sensor
+PCF8591 AD/DA module

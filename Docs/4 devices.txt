@@ -1,0 +1,3 @@
+4 devices
+2 input - photodiode, Infrared??
+2 output - LED, Servo
